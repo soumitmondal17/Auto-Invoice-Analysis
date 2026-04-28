@@ -14,4 +14,4 @@ An agentic RPA workflow built in UiPath Studio Cloud.
 UiPath Studio Cloud, UiPath Orchestrator, Google Drive
 
 ### Process Diagram:
-![Process Flow](uipath diagram.png)
+![Process Flow](UiPath%20Diagram.png)
